@@ -90,4 +90,4 @@ I am a Computer Science student at the University of Engineering and Technology,
 
 I am available for **freelance projects**, **collaborations** and **technical partnerships**, whether that means building a mobile app from the ground up, designing a scalable backend, or improving an existing product.
 
-If you have an idea or a project in mind, let's talk. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/saad-ahsan-55201336a/).
+If you have an idea or a project in mind, let's talk. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/muhammad-saad-ahsan-55201336a/).
